@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-logo {
+
+  align-content: left;
+  padding-left: 80px;
+  padding-top: 40px;
+  padding-bottom: 46px;
+  background-color: red
+}
+
+.gearmo {
+  font-family: "HelveticaNeue";
+  color: "#4a4a4r";
+  font-size: 36px;
+  padding-top: 48px;
+  padding-bottom: 55px;
+  background-color: green
+};
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.rectangle5 {
+  height: 146px;
+  background-color: brown;
+};
+
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.menuitems{
+  width: 35;
+  height: 25;
+  color: orange;
+  padding-top: 50px;
+  font-size: 18px;
+  background-color: purple;
+}
